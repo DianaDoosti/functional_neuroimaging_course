@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
-from .utility_functions import Conv_coordinates
+from utility_functions import Conv_coordinates
 from pathlib import Path
 
 # -------------------------------------  Calculate Coordinates of MEG sensors ------------------------------------------
