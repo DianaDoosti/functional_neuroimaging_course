@@ -1,6 +1,6 @@
 # Functional Brain Imaging Systems: Programming Assignments
 
-Programming assignments for the graduate-level course **Functional Brain Imaging Systems**. The repository contains two main projects:
+The repository contains two main projects:
 
 ## Project 1: Forward and Inverse Modeling of EEG and MEG
 
