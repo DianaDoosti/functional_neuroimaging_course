@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Exclude confidential EEG data
+Data_EEG/
+ERP_topographic_maps/Code/frames*/
